@@ -22,6 +22,7 @@ Display::->
   https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/assets/img/content/home/hello/me.svg
 */
 body{
+  background-image:linear-gradient(#E4F9F5,#EEF1FF);
   margin:0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -75,6 +76,7 @@ hr{
   margin-top: 100px;
 }
 .middle-container{
+  background-color:#EEF1FF;
   margin: 100px 0 ;
 }
 .bottom-container{
@@ -154,3 +156,4 @@ hr{
   background-image: linear-gradient(to bottom, #30e3cb, #2cb4ad);
   text-decoration: none;
 }
+
